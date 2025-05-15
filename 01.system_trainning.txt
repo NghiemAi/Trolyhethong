@@ -446,5 +446,243 @@ Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn v�
 Rev 01, Mã số: DQ-NS-PR-0.106, Ngày hiệu lực: 27/02/2023
 Trách nhiệm lưu: P.HCNS, 
 Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+111.	Quy trình kiểm tra seal, 
+Rev 01, Mã số: DQ-KHVT-PR-0.109, Ngày hiệu lực: 11/03/2024,
+Trách nhiệm lưu: P.Cung ứng, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+112.	Quy trình theo dõi thời gian và quá trình vận chuyển hàng hoá xuất khẩu, 
+Rev 02, Mã số: DQ-KHVT-PR-0.110, Ngày hiệu lực: 11/03/2024, 
+Trách nhiệm lưu: P.Cung ứng, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+113.	Quy trình tiếp nhận, xử lý và quản lý khiếu nại của trung tâm dịch vụ khách hàng, 
+Rev 01, Mã số: DQ-DVKH-PR-0.111, Ngày hiệu lực: 02/11/2023, 
+Trách nhiệm lưu: P.MT, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+114.	Quy trình khảo sát hài lòng của khách hàng, 
+Rev 01, Mã số: DQ-DVKH-PR-0.112, Ngày hiệu lực: 25/06/2023, 
+Trách nhiệm lưu: P.MT, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+115.	Quy trình ứng phó tình huống khẩn cấp, 
+Rev 01, Mã số: DQ-KHCN-PR-0.117, Ngày hiệu lực: 04/12/2024, 
+Trách nhiệm lưu: P.KTH-CL, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+116.	Hướng dẫn đánh giá nhà cung ứng, 
+Rev 10, Mã số: DQ-KHVT-WI-0.2, Ngày hiệu lực: 16/12/2024, 
+Trách nhiệm lưu: P.Cung ứng, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+117.	Hướng dẫn kiểm soát côn trùng dịch hại, 
+Rev 04, Mã số: DQ-HC-WI-0.4, Ngày hiệu lực: 20/12/2023,
+Trách nhiệm lưu: P.HCNS, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+118.	Hướng dẫn quản lý, kiểm soát an ninh, an toàn tòa nhà, 
+Rev 03, Mã số: DQ-HC-WI-0.5, Ngày hiệu lực: 04/12/2024, 
+Trách nhiệm lưu: P.HCNS, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+119.	Hướng dẫn xử lý vật tư -NVL-BTP không đồng bộ tại ĐQ, 
+Rev 01, Mã số: DQ-DQH-WI-0.7, Ngày hiệu lực: 06/06/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+120.	Hướng dẫn công việc của trung tâm dịch vụ khách hàng, 
+Rev 01, Mã số: DQ-DVKH-WI-0.9, Ngày hiệu lực: 02/11/2023, 
+Trách nhiệm lưu: P.MT, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+121.	Hướng dẫn sử dụng và quản lý bảo mật hệ thống thông tin, 
+Rev 08, Mã số: DQ-HC-WI-0.14, Ngày hiệu lực: 02/04/2024, 
+Trách nhiệm lưu: P.HCNS, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+122.	Hướng dẫn xây dựng và triển khai thực hiện 5S, 
+Rev 04, Mã số: DQ-HC-WI-0.15, Ngày hiệu lực: 25/10/2021, 
+Trách nhiệm lưu: P.HCNS, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+123.	Hướng dẫn tự hiệu chuẩn TB kiểm tra,-đo lường-giám sát, 
+Rev 05, Mã số: DQ-LAB-WI-0.17, , Ngày hiệu lực: 16/01/2024, 
+Trách nhiệm lưu: PTN, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+124.	Hướng dẫn xử lý hàng tồn kho, 
+Rev 04, Mã số: DQ-NCPT-WI-0.18, Ngày hiệu lực: 01/04/2024, 
+Trách nhiệm lưu: TT. NCPT, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+125.	Hướng dẫn soạn thảo hợp đồng kinh tế các loại, 
+Rev 04, Mã số: DQ-PC-WI-0.21, Ngày hiệu lực: 04/06/2024, 
+Trách nhiệm lưu: P.PC, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+126.	Hướng dẫn vận hành, bảo quản thiết bị kiểm tra, đo lường giám sát tại phòng thử nghiệm 
+Rev 04, Mã số: DQ-LAB-WI-0.23, Ngày hiệu lực: 18/01/2024, 
+Trách nhiệm lưu: PTN, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+127.	Hướng dẫn lập Annex để cung cấp hàng cho khối B2B, 
+Rev 03, Mã số: DQ-NCPT-WI-0.24, Ngày hiệu lực: 31/12/2024, 
+Trách nhiệm lưu: TT. NCPT, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+128.	Hướng dẫn quản lý thẻ thanh toán, 
+Rev 03, Mã số: DQ-TCKT-WI-0.26, Ngày hiệu lực: 02/12/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+129.	Hướng dẫn xử lý sản phẩm không phù hợp, 
+Rev 00, Mã số: DQ-DQH-WI-0.12, Ngày hiệu lực: 29/05/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+130.	Hướng dẫn vận hành thiết bị sản xuất tại PXHT của DQH, 
+Rev 02, Mã số: DQ-DQH-WI-4.0, Ngày hiệu lực: 06/07/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+131.	Hướng dẫn QTSX, Kiểm soát thông số quá trình tại PXĐT của DQH, 
+Rev 06, Mã số: DQ-DQH-WI-4.2, Ngày hiệu lực: 10/04/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+132.	Hướng dẫn sản xuất- kiểm soát thông số quy trình sản xuất chip led của DQH, 
+Rev 02, Mã số: DQ-DQH-WI-4.3, Ngày hiệu lực: 16/06/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+133.	Hướng dẫn việc bảo trì/ bảo dưỡng và các quy định ra vào phòng chip led SMT tại DQH, 
+Rev 05, Mã số: DQ-DQH-WI-4.4, Ngày hiệu lực: 05/01/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+134.	Hướng dẫn xếp dỡ - lưu kho - bảo quản và giao hàng tại DQH, 
+Rev 05, Mã số: DQ-DQH-WI-4.5, Ngày hiệu lực: 20/04/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+135.	Hướng dẫn dọn quang chuyền, 
+Rev 03, Mã số: DQ-DQH-WI-4.6, Ngày hiệu lực: 04/11/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+136.	 Hướng dẫn vận hành thiết bị SX tại PXĐT của DQH, 
+Rev 02, Mã số: DQ-DQH-WI-4.7, Ngày hiệu lực: 22/03/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+137.	Hướng dẫn mô hình sản xuất-kinh doanh tại phân xưởng điện tử DQH, 
+Rev 02, Mã số: WI-4.8, Ngày hiệu lực: 10/04/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+138.	Hướng dẫn áp dụng kỹ thuật thống kê-phân tích-cải tiến tại DQH, 
+Rev 02, Mã số: DQ-DQH-WI-4.9, Ngày hiệu lực: 07/08/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+139.	Hướng dẫn vận hành, bảo quản thiết bị kiểm tra, đo lường, giám sát tại DQH, 
+Rev 02, Mã số: DQ-DQH-WI-4.10, Ngày hiệu lực: 05/07/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+140.	Hướng dẫn vệ sinh và quản lý tuổi thọ Stencil tại NMĐT, 
+Rev 02, Mã số: DQ-DQH-WI-4.11, Ngày hiệu lực: 07/08/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+141.	Hướng dẫn vệ sinh và quản lý dao quét tại NMĐT - DQH, 
+Rev 01, Mã số: DQ-DQH-WI-4.12, Ngày hiệu lực: 16/10/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+142.	Hướng dẫn quy trình sản xuất, kiểm soát thông số quá trình tại NMHT, 
+Rev 05, Mã số: DQ-DQH-WI-4.13, Ngày hiệu lực: 14/10/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+143.	Hướng dẫn bảo trì thiết bị sản xuất tại DQH, 
+Rev 05, Mã số: DQ-DQH-WI-4.15, Ngày hiệu lực: 15/04/2024,
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+144.	Hướng dẫn vận hành thiết bị phụ trợ tại PXĐT của DQH,
+Rev 02, Mã số: DQ-DQH-WI-4.16, Ngày hiệu lực: 15/01/2024, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+145.	KH&PP kiểm tra NVL-BTP-SPC sản phẩm Led/OEM/SKD DQH, 
+Rev 05, Mã số: DQ-DQH-WI-4.17, Ngày hiệu lực: 09/10/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+146.	Hướng dẫn mô hình hoạt động sản xuất - kinh doanh tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.0, Ngày hiệu lực: 03/04/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+147.	Hướng dẫn vận hành thiết bị sx và thiết bị phụ trợ tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.1, Ngày hiệu lực: 03/04/2023, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+
+148.	Hướng dẫn xử lý sản phẩm không phù hợp, 
+Rev 02, Mã số: DQ-DQH-WI-5.2, Ngày hiệu lực: 11/10/2023, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+149.	Hướng dẫn sản xuất và kiểm soát năng lực quá trình tại phân xưởng lắp ráp DQI, 
+Rev 02, Mã số: DQ-DQI-WI-5.3, Ngày hiệu lực: 29/09/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+150.	Hướng dẫn sản xuất và kiểm soát năng lực quá trình tại phân xưởng ép nhựa DQI, 
+Rev 02, Mã số: DQ-DQI-WI-5.4, Ngày hiệu lực: 25/09/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+151.	Hướng dẫn bảo trì thiết bị sản xuất và thiết bị phụ trợ tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.5, Ngày hiệu lực: 03/04/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+152.	Hướng dẫn xếp dỡ - lưu kho - bảo quản - giao hàng tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.6, Ngày hiệu lực: 03/04/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+153.	Hướng dẫn đánh giá nhà cung cấp & đơn vị thuê ngoài tại DQI, 
+Rev 02, Mã số: DQ-DQI-WI-5.7, Ngày hiệu lực: 11/10/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+154.	Hướng dẫn kế hoạch và phương pháp kiểm tra NVL - BTP - TP tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.8, Ngày hiệu lực: 28/04/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+155.	Hướng dẫn vận hành, bảo quản thiết bị kiểm tra, đo lường, giám sát tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.9, Ngày hiệu lực: 03/04/2023, 
+Trách nhiệm lưu: DQI,
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+156.	Hướng dẫn kĩ thuật thống kê - phân tích - cải tiến tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.10, Ngày hiệu lực: 03/04/2023, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+157.	Hướng dẫn kiểm soát - pha màu phối trộn hạt nhựa cho các sản phẩm màu tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.11, Ngày hiệu lực: 24/05/2023, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+158.	Hướng dẫn kiểm soát côn trùng dịch hại tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.12, Ngày hiệu lực: 29/09/2023, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+159.	Hướng dẫn kiểm soát ra vào nhà máy tại DQI, 
+Rev 02, Mã số: DQ-DQI-WI-5.13, Ngày hiệu lực: 06/11/2023, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+160.	Hướng dẫn bảo trì, bảo dưỡng khuôn tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.14, Ngày hiệu lực: 26/10/2023, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+161.	Hướng dẫn quản lý nhà thầu tại DQI, 
+Rev 01, Mã số: DQ-DQI-WI-5.16 , Ngày hiệu lực: 27/11/2024, 
+Trách nhiệm lưu: DQI,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+162.	Quy trình quản lý Seal nội bộ & kiểm tra phương tiện vân tải DQI, 
+Rev 00, Mã số: DQ-DQI-PR-0.122, Ngày hiệu lực: 02/02/2024, 
+Trách nhiệm lưu: DQI, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+163.	Quy trình thiết kế/ cải tiến kiểu dáng sản phẩm, 
+Rev 00, Mã số: DQ-TK-PR-0.118, Ngày hiệu lực: 08/06/2023, 
+Trách nhiệm lưu: P.B2C, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+164.	Quy trình quản lý dụng cụ sắt nhọn, 
+Rev 02, Mã số: DQ-DQH-PR-0.121, Ngày hiệu lực: 12/12/2023, 
+Trách nhiệm lưu: DQH, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+165.	Hướng dẫn thực hiện EPR, 
+Rev 00, Mã số: DQ-KHCN-WI-0.29, Ngày hiệu lực: 19/12/2023, 
+Trách nhiệm lưu: P.KTH-CL,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+166.	Hướng dẫn đánh giá và đo lường sự hài lòng của khách hàng, 
+Rev 01, Mã số: DQ-DVKH-PR-0.112-WI1, Ngày hiệu lực 20/05/2024, 
+Trách nhiệm lưu: P.MT,  
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+167.	Hướng dẫn lắp đặt bảng hiệu toàn quốc, 
+Rev 00, Mã số: DQ-B2C-WI-0.30, Ngày hiệu lực: 03/06/2024, 
+Trách nhiệm lưu: P.B2C, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+168.	Hướng dẫn mua hàng kênh Solar, 
+Rev 11, Mã số: DQ-KHVT-PR-0.11-WI1, Ngày hiệu lực: 13/05/2025, 
+Trách nhiệm lưu: P. Cung ứng, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+169.	Quy trình quản lý tốc độ phản hồi thông tin hàng hóa, 
+Rev 01, Mã số: DQ-GT-PR-0.123, Ngày hiệu lực: 19/03/2025, 
+Trách nhiệm lưu: P.GT, 
+Thời gian lưu: Khi có sự thay đổi, , Vị trí lưu: Onedrive đơn vị & Voffice.
+
 
 
